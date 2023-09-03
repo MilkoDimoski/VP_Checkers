@@ -6,13 +6,13 @@ CHECKERS Windows Forms Project by :	Milko Dimoski and Darko Dimitrov
 2. Упатство за користење
  2.1 Нова игра
    
-![image](https://github.com/MilkoDimoski/VP_Checkers/assets/127048801/6300f9c7-8a42-48cd-9777-00f3c8c2a986)
+![image](https://github.com/MilkoDimoski/VP_Checkers/assets/127048801/c083ecfc-fc21-4ccf-aa84-39750d900059)
 
                                                 (слика 1)
 
  При стартување на апликацијата (слика 1) потребно е да кликнеме на копчето Play за да започнеме нова игра. 
  
- ![image](https://github.com/MilkoDimoski/VP_Checkers/assets/127048801/d9f78679-1a37-4f0b-9ce3-b53e163fcaa9)
+![image](https://github.com/MilkoDimoski/VP_Checkers/assets/127048801/3e39ef57-6bdc-4dc5-ab9c-4386056cf872)
                                                 
                                                 (слика 2)
 
@@ -20,13 +20,13 @@ CHECKERS Windows Forms Project by :	Milko Dimoski and Darko Dimitrov
 
  2.2 Правила на играње
  
- ![image](https://github.com/MilkoDimoski/VP_Checkers/assets/127048801/3f9295bf-44fb-454e-87d3-b54d24c0dd0f)
+![image](https://github.com/MilkoDimoski/VP_Checkers/assets/127048801/95a81d41-585e-475c-bc89-918b5c157000)
  
                                                 (слика 3)
 
  Прв почнува секогаш црвениот играч. За мрдање на фигура потребно е да притиснеме на истата и автоматски ќе ни се изгенерираат полињата каде што можеме да се движиме (слика 3).
 
- ![image](https://github.com/MilkoDimoski/VP_Checkers/assets/127048801/9ee80014-dd84-44fa-a2dc-ca24c29bf062)
+![image](https://github.com/MilkoDimoski/VP_Checkers/assets/127048801/286d4524-c395-4c2b-a2c7-f9edd80bb3db)
  
                                                 (слика 4)
 
