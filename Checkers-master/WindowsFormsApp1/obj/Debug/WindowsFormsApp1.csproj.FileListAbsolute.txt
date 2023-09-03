@@ -1,0 +1,14 @@
+C:\Users\Asus X750\OneDrive\Desktop\CHECKERS\CHECKERS C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Asus X750\OneDrive\Desktop\CHECKERS\CHECKERS C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus X750\OneDrive\Desktop\CHECKERS\CHECKERS C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Asus X750\OneDrive\Desktop\CHECKERS\CHECKERS C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Asus X750\OneDrive\Desktop\CHECKERS\CHECKERS C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Asus X750\OneDrive\Desktop\CHECKERS\CHECKERS C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Asus X750\OneDrive\Desktop\CHECKERS\CHECKERS C#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Asus X750\OneDrive\Desktop\CHECKERS\CHECKERS C#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Asus X750\OneDrive\Desktop\CHECKERS\CHECKERS C#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Asus X750\OneDrive\Desktop\CHECKERS\CHECKERS C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Asus X750\OneDrive\Desktop\CHECKERS\CHECKERS C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Asus X750\OneDrive\Desktop\CHECKERS\CHECKERS C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Asus X750\OneDrive\Desktop\CHECKERS\CHECKERS C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Asus X750\OneDrive\Desktop\CHECKERS\CHECKERS C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
